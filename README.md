@@ -2,13 +2,13 @@
 
 A simple and interactive 4-digit PIN generator and matcher built using HTML, CSS, and JavaScript. Users can generate a random PIN and attempt to match it by typing manually using a custom on-screen number pad.
 
-![Screenshot](https://github.com/parvejahmedhimel/Pin--Mathing/blob/main/Screenshot%202025-06-14%20180757.png)
+![Screenshot](https://github.com/parvejahmedhimel/Pin--Mathing/blob/main/Screenshot%202025-06-14%20172000.png)
 
 ---
 
 ## 🌐 Live Preview
 
-👉 [Try it Now on GitHub Pages](https://parvejahmedhimel.github.io/Pin--Mathing/)
+👉 [Try it Now on GitHub Pages](https://pin-matching-bd.netlify.app/)
 
 ---
 
@@ -53,7 +53,7 @@ Pin--Mathing/
 
 ## 📸 UI Preview
 
-![UI Screenshot](https://github.com/parvejahmedhimel/Pin--Mathing/blob/main/Screenshot%202025-06-14%20180757.png)
+![UI Screenshot](https://github.com/parvejahmedhimel/Pin--Mathing/blob/main/Screenshot%202025-06-14%20172000.png)
 
 ---
 
